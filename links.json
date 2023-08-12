@@ -18,6 +18,7 @@
         "arkhamfinance.me",
         "arkhaminteligences.net"
     ],
+
     "coinbase":
     [
         "coinbase-wallet.com.cn"
@@ -27,12 +28,14 @@
         "metamasktokens-drop.com/claim.html",
         "event-metamask.io"
     ],
+
     "opensea":
     [
         "market-opensea-io.com",
         "opensea.org.ru",
         "www-opensea.art"
     ],
+
     "pepe":
     [
         "pepe-rewards.org",
@@ -66,16 +69,19 @@
         "pepelaunch.pro",
         "minipepe.cool"
     ],
+
     "opepen":
     [
         "opepen.in",
         "blog.opepen.army",
         "opepen.events"
     ],
+
     "walletguard":
     [
         "blog.wallet-guard.app"
     ],
+
     "worldcoin":
     [
         "airdrop-worldcoin.su",
@@ -83,8 +89,34 @@
         "mail.tokens-worldcoin.com",
         "tokens-worldcoin.com"
     ],
-    "others":
+
+    "inferno":
     [
+        "mail.token-pond0x.com",
+        "claim-cbeth.com",
+        "blockchainbetsv2.site",
+        "minipepe.cool",
+        "avadrop.pro",
+        "claim-pepetoken2.pages.dev"
+    ],
+    "pink":
+    [
+        "distribution-shibatoken.net",
+        "claimbetbuinu.com"
+    ],
+    "angel":
+    [
+        
+    ],
+    "cerberus":
+    [
+        "drop-sui.com",
+        "secure.afterberner.top",
+        "pepelaunch.pro"
+    ],
+     "others":
+    [
+        "babybayc.pages.dev",
         "distribution-arkhamintelligence.com",
         "metamasktokens-drop.com/claim.html",
         "adidas-metaverses.com/claim.html",
@@ -705,28 +737,6 @@
         "blog.curvefi.claims",
         "www.pre-mint.tech",
         "claim-pepetoken2.pages.dev"
-    ],
-    "inferno":
-    [
-        "mail.token-pond0x.com",
-        "claim-cbeth.com",
-        "blockchainbetsv2.site",
-        "minipepe.cool",
-        "avadrop.pro",
-        "claim-pepetoken2.pages.dev"
-    ],
-    "pink":
-    [
-        "distribution-shibatoken.net",
-        "claimbetbuinu.com"
-    ],
-    "angel":
-    [
-        
-    ],
-    "cerberus":
-    [
-        "drop-sui.com",
-        "secure.afterberner.top"
     ]
-}}
+}
+}
