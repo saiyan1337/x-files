@@ -21,7 +21,10 @@
 
     "coinbase":
     [
-        "coinbase-wallet.com.cn"
+        "coinbase-wallet.com.cn",
+        "www.coinbase.vault-secure.com",
+        "coinbase-wallet.com.cn",
+        "cpanel.secure3update-coinbase.com"
     ],
     "metamask":
     [
