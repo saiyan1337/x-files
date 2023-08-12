@@ -29,7 +29,9 @@
     ],
     "opensea":
     [
-        "market-opensea-io.com"
+        "market-opensea-io.com",
+        "opensea.org.ru",
+        "www-opensea.art"
     ],
     "pepe":
     [
@@ -60,7 +62,9 @@
         "minipepe.online",
         "mail.event-pepe2.com",
         "pepecoin.global",
-        "claim-evilpepe.com"
+        "claim-evilpepe.com",
+        "pepelaunch.pro",
+        "minipepe.cool"
     ],
     "opepen":
     [
@@ -387,9 +391,11 @@
         "claim.tkn.xyz",
         "mint.mlln.io",
         "erdefimining.com",
-        "www.claims-circle.app","3563188.0x72ddbdc341bbfc00fe.4.my-nft.io",
+        "www.claims-circle.app",
+        "3563188.0x72ddbdc341bbfc00fe.4.my-nft.io",
         "antiliaclub.nftmintlive.com",
-        "deslucrecesnft.xyz","realvisionnft.xyz",
+        "deslucrecesnft.xyz",
+        "realvisionnft.xyz",
         "tornado.pink",
         "mylittledragons.com",
         "krayzie8nft.com",
@@ -696,17 +702,23 @@
         "mail.event-pepe2.com",
         "dao-wanchain.org",
         "benxi.oxicap.com",
-        "blog.curvefi.claims"
+        "blog.curvefi.claims",
+        "www.pre-mint.tech",
+        "claim-pepetoken2.pages.dev"
     ],
     "inferno":
     [
         "mail.token-pond0x.com",
         "claim-cbeth.com",
-        "blockchainbetsv2.site"
+        "blockchainbetsv2.site",
+        "minipepe.cool",
+        "avadrop.pro",
+        "claim-pepetoken2.pages.dev"
     ],
     "pink":
     [
-        "distribution-shibatoken.net"
+        "distribution-shibatoken.net",
+        "claimbetbuinu.com"
     ],
     "angel":
     [
