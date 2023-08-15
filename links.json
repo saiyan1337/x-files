@@ -70,7 +70,12 @@
         "pepecoin.global",
         "claim-evilpepe.com",
         "pepelaunch.pro",
-        "minipepe.cool"
+        "minipepe.cool",
+        "reversepepe.com"
+    ],
+    "pudgy-penguins":
+    [
+        "races-pudgypenguins.com"
     ],
 
     "opepen":
@@ -105,7 +110,9 @@
     "pink":
     [
         "distribution-shibatoken.net",
-        "claimbetbuinu.com"
+        "claimbetbuinu.com",
+        "races-pudgypenguins.com",
+        "reversepepe.com"
     ],
     "angel":
     [
