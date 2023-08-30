@@ -3,12 +3,15 @@
 
  ## Brand:
  * Arkham - 14
+ * BAYC - 2
  * OpenSea - 3
+ * PolygonLabs - 1 
+ * Pudgy Pengins - 3
  * Coinbase - 4
- * MetaMask - 2
+ * MetaMask - 3
  * WalletGuard - 1
  * Openen - 3  
- * PEPE - 30
+ * PEPE - 31
  * Worldcoin - 4 
 
  ## Phishing Types
