@@ -32,14 +32,16 @@
         "metamasktokens-drop.com/claim.html",
         "event-metamask.io",
         "metamasks.site",
-        "metamask-pass.com"
+        "metamask-pass.com",
+        "metamask-drop.site"
     ],
 
     "opensea":
     [
         "market-opensea-io.com",
         "opensea.org.ru",
-        "www-opensea.art"
+        "www-opensea.art",
+        "www.opensea.poolapi.xyz"
     ],
     "PolygonLabs":
     [
@@ -867,7 +869,8 @@
     "market-cryptozoo.co",
     "appparsec.com",
     "token.sclj.net",
-    "syncswap-zksync.xyz"
+    "syncswap-zksync.xyz",
+    "pass-nakamigos.io"
     ]
 }
 }
