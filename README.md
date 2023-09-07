@@ -4,11 +4,11 @@
  ## Brand:
  * Arkham - 15
  * BAYC - 2
- * OpenSea - 3
+ * OpenSea - 4
  * PolygonLabs - 1 
  * Pudgy Pengins - 3
  * Coinbase - 4
- * MetaMask - 4
+ * MetaMask - 5
  * WalletGuard - 1
  * Openen - 3  
  * PEPE - 31
