@@ -2,7 +2,7 @@
  list of drainers collected by project, token or associated brand
 
  ## Brand:
- * Arkham - 15
+ * Arkham - 16
  * BAYC - 2
  * OpenSea - 4
  * PolygonLabs - 1 
@@ -13,6 +13,7 @@
  * Openen - 3  
  * PEPE - 31
  * Worldcoin - 4 
+ * Yuga - 1
 
  ## Phishing Types
  * airdrop
