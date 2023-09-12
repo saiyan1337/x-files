@@ -3,6 +3,7 @@
 
  ## Brand:
  * Arkham - 18
+ * AKCB - 2
  * BAYC - 2
  * OpenSea - 4
  * PolygonLabs - 1 
