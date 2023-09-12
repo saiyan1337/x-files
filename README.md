@@ -2,7 +2,7 @@
  list of drainers collected by project, token or associated brand
 
  ## Brand:
- * Arkham - 17
+ * Arkham - 18
  * BAYC - 2
  * OpenSea - 4
  * PolygonLabs - 1 
