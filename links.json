@@ -1,6 +1,11 @@
 {
     "drainers":
     {
+        "akidcalledbeast":
+        [
+             "akidcalledbeast.gift",
+        "claim.akidscailedbeast.com"
+        ],
     "arkham":
     [
         "arkhamintelligence.pre-sale.in",
@@ -28,7 +33,8 @@
         "coinbase-wallet.com.cn",
         "www.coinbase.vault-secure.com",
         "coinbase-wallet.com.cn",
-        "cpanel.secure3update-coinbase.com"
+        "cpanel.secure3update-coinbase.com",
+        "coinbassedropp.app"
     ],
     "metamask":
     [
