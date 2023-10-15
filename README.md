@@ -9,7 +9,7 @@
  * PolygonLabs - 1 
  * Pudgy Pengins - 3
  * Coinbase - 4
- * MetaMask - 5
+ * MetaMask - 6
  * WalletGuard - 1
  * Openen - 3  
  * PEPE - 31
@@ -22,7 +22,8 @@
  * seed phrase/private key/json keystore
 
  ## Drainers:
- * Inferno
+ * Inferno - 106
  * Pink
  * Angel
  * Cerberus
+ * MS? - 69
