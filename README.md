@@ -5,9 +5,9 @@
  * Arkham - 18
  * AKCB - 2
  * BAYC - 2
- * OpenSea - 4
- * PolygonLabs - 1 
- * Pudgy Pengins - 3
+ * OpenSea - 10
+ * PolygonLabs - 2 
+ * Pudgy Pengins - 10
  * Coinbase - 4
  * MetaMask - 6
  * WalletGuard - 1
