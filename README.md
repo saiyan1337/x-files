@@ -22,7 +22,7 @@
  * seed phrase/private key/json keystore
 
  ## Drainers:
- * Inferno - 140
+ * Inferno - 255
  * Pink
  * Angel
  * Cerberus
