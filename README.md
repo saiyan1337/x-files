@@ -27,3 +27,5 @@
  * Angel
  * Cerberus
  * MS? - 69
+
+ Inferno Drainer phishing panel: dfgdfgqg[.]com / [unlisted panel]
