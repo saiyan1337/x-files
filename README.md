@@ -28,4 +28,4 @@
  * Cerberus
  * MS? - 69
 
- Inferno Drainer phishing panel: dfgdfgqg[.]com / [unlisted panel]
+ Inferno Drainer phishing panel: dfgdfgqg[.]com / dante.su
