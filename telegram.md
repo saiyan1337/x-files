@@ -44,3 +44,7 @@ Drainers, SIM Swaps, Hacking
 @cryptodrainx - wants adderess poisoning bot, X @acedrainer / Kaka888_sol
 
 @NKR_ZiG - silly scammer looking for a drainer
+
+@DiabloBtc
+
+@massreportceo
