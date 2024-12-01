@@ -40,3 +40,7 @@ Drainers, SIM Swaps, Hacking
 @rollsroycecashoutschat
 
 @dgdrain
+
+@cryptodrainx - wants adderess poisoning bot, X @acedrainer / Kaka888_sol
+
+@NKR_ZiG - silly scammer looking for a drainer
