@@ -48,3 +48,11 @@ Drainers, SIM Swaps, Hacking
 @DiabloBtc
 
 @massreportceo
+
+@X_FD_TRADE
+
+@Kamruleads Coinbase leads 
+ID: 7784654400
+
+@styleCarding
+ID: 6560417916
